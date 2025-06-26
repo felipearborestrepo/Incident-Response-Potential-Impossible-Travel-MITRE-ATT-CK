@@ -25,7 +25,7 @@ An alert is triggered if a user logs into more than two distinct geographic regi
 
 ![Screenshot 2025-06-25 223606](https://github.com/user-attachments/assets/51e6f350-436e-454a-8240-07deba174cbb)
 
-**Step 1: Query for Impossible Travel**
+**Step 1: Query Used for the Possibility of Impossible Travel**
 ```kql
 let TimePeriodThreshold = timespan(7d); 
 let NumberOfDifferentLocationsAllowed = 2;
