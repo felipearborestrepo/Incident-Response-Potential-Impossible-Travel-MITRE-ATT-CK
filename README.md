@@ -94,8 +94,9 @@ SigninLogs
 ## 🧪 Part 2: Work the Incident (NIST IR Lifecycle)
 
 ### 1️⃣ Preparation📋
-- Define roles and procedures  
-- Ensure logging and detection tools are in place
+- Before deploying any detection logic, I started by outlining clear roles and procedures for handling potential account anomalies like impossible travel events. This included documenting how alerts would be investigated, who would own the incident, and what steps would be taken at each stage of the response.
+
+- I also made sure that the necessary tools and services were properly configured
 
 ---
 
